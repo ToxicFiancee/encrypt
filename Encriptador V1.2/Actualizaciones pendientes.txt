@@ -1,0 +1,6 @@
+ 1 Agregar filtro para palabras con mas de 10 caracteres, de manera que el programa lo divida
+       en dos strings. Para que pueda unirlos otra vez al ser desencriptados, estos string tendran una letra
+       adicional al inicio y al final (para el primer string al final, y para el segundo al principio). Asi se
+       indentificara donde inicia la palabra y donde termina para que puedan ser unidas.
+     2 Agregar filtro para espacios
+     3 Agregar filtro para caractares especiales
